@@ -6,6 +6,6 @@ package com.hmc.git;
  */
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("hello, Git！ 我改了一次");
+        System.out.println("hello, Git！ 我改了两次");
     }
 }
